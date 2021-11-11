@@ -171,10 +171,13 @@ p{
 	font-family:"Trebuchet MS", Times, sans-serif;
 }
 
+.postagem-titulo{
+	cursor: pointer;
+}
 
-
-
-
+.postagem-titulo:hover{
+	color: white;
+}
 
 /*  *****formatação do menu**** */
 a{
